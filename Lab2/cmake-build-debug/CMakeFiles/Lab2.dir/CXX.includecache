@@ -6,37 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.cpp
-Schoolkid.h
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.h
-iostream
--
-iomanip
--
-
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.h
+/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Schoolkid.h
 string
 -
 
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.cpp
+/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.cpp
 Teacher.h
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.h
+/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.h
 iostream
 -
 
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.h
+/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.h
 Schoolkid.h
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.h
+/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Schoolkid.h
 string
 -
-
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/main.cpp
-iostream
--
-iomanip
--
-Schoolkid.h
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.h
-Teacher.h
-/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.h
 

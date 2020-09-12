@@ -63,10 +63,10 @@ RM = /snap/clion/124/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2"
+CMAKE_SOURCE_DIR = "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab2.dir/depend.make
@@ -79,42 +79,42 @@ include CMakeFiles/Lab2.dir/flags.make
 
 CMakeFiles/Lab2.dir/main.cpp.o: CMakeFiles/Lab2.dir/flags.make
 CMakeFiles/Lab2.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab2.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab2.dir/main.cpp.o -c "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab2.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab2.dir/main.cpp.o -c "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/main.cpp"
 
 CMakeFiles/Lab2.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/main.cpp" > CMakeFiles/Lab2.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/main.cpp" > CMakeFiles/Lab2.dir/main.cpp.i
 
 CMakeFiles/Lab2.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/main.cpp" -o CMakeFiles/Lab2.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/main.cpp" -o CMakeFiles/Lab2.dir/main.cpp.s
 
 CMakeFiles/Lab2.dir/Schoolkid.cpp.o: CMakeFiles/Lab2.dir/flags.make
 CMakeFiles/Lab2.dir/Schoolkid.cpp.o: ../Schoolkid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab2.dir/Schoolkid.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab2.dir/Schoolkid.cpp.o -c "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab2.dir/Schoolkid.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab2.dir/Schoolkid.cpp.o -c "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Schoolkid.cpp"
 
 CMakeFiles/Lab2.dir/Schoolkid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Schoolkid.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.cpp" > CMakeFiles/Lab2.dir/Schoolkid.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Schoolkid.cpp" > CMakeFiles/Lab2.dir/Schoolkid.cpp.i
 
 CMakeFiles/Lab2.dir/Schoolkid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Schoolkid.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.cpp" -o CMakeFiles/Lab2.dir/Schoolkid.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Schoolkid.cpp" -o CMakeFiles/Lab2.dir/Schoolkid.cpp.s
 
 CMakeFiles/Lab2.dir/Teacher.cpp.o: CMakeFiles/Lab2.dir/flags.make
 CMakeFiles/Lab2.dir/Teacher.cpp.o: ../Teacher.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab2.dir/Teacher.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab2.dir/Teacher.cpp.o -c "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Lab2.dir/Teacher.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab2.dir/Teacher.cpp.o -c "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.cpp"
 
 CMakeFiles/Lab2.dir/Teacher.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab2.dir/Teacher.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.cpp" > CMakeFiles/Lab2.dir/Teacher.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.cpp" > CMakeFiles/Lab2.dir/Teacher.cpp.i
 
 CMakeFiles/Lab2.dir/Teacher.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab2.dir/Teacher.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.cpp" -o CMakeFiles/Lab2.dir/Teacher.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.cpp" -o CMakeFiles/Lab2.dir/Teacher.cpp.s
 
 # Object files for target Lab2
 Lab2_OBJECTS = \
@@ -130,7 +130,7 @@ Lab2: CMakeFiles/Lab2.dir/Schoolkid.cpp.o
 Lab2: CMakeFiles/Lab2.dir/Teacher.cpp.o
 Lab2: CMakeFiles/Lab2.dir/build.make
 Lab2: CMakeFiles/Lab2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Lab2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Lab2"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Lab2.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -143,6 +143,6 @@ CMakeFiles/Lab2.dir/clean:
 .PHONY : CMakeFiles/Lab2.dir/clean
 
 CMakeFiles/Lab2.dir/depend:
-	cd "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Lab2.dir/depend
 

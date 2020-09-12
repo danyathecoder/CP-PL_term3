@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Schoolkid.cpp" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/Schoolkid.cpp.o"
-  "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/Teacher.cpp" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/Teacher.cpp.o"
-  "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/main.cpp" "/home/danilapoddubny/Programming/c&c++/CP&PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/main.cpp.o"
+  "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Schoolkid.cpp" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/Schoolkid.cpp.o"
+  "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/Teacher.cpp" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/Teacher.cpp.o"
+  "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/main.cpp" "/home/danilapoddubny/Programming/c&c++/CP-PL_term3/Lab2/cmake-build-debug/CMakeFiles/Lab2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

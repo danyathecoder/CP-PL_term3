@@ -17,5 +17,5 @@ void Teacher::setMissings(Schoolkid &obj, const int missings) {
 void sayHelloToMyLittleFriend(const Teacher& obj){
     cout << "https://www.youtube.com/watch?v=AVQ8byG2mY8&ab_channel=Godlike"<< endl <<
          "Hi, children. My name is " << obj.name <<
-         "And my salary is " << obj.salary << " to listen you." << endl;
+         " and my salary is " << obj.salary << " to listen you." << endl;
 }
