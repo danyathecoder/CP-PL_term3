@@ -41,14 +41,14 @@ public:
          this -> arr[i][j] = c;
     }
     bool operator<(const CharMatrix &obj){
-        if(arr[0][0] <= obj.arr[0][0]) return true;
-        else return false;
-    }
-    bool operator>(const CharMatrix &obj){
         if(arr[0][0] >= obj.arr[0][0]) return true;
         else return false;
     }
-    friend ostream& operator<<(ostream &stream, const CharMatrix &obj);
+    bool operator>(const CharMatrix &obj){
+        if(this -> arr[0][0] <= obj.arr[0][0]) return true;
+        else return false;
+    }
+    friend ostream& operator<<(ost ream &stream, const CharMatrix &obj);
 };
 
 
@@ -63,16 +63,20 @@ ostream& operator<<(ostream &stream, const CharMatrix &obj) {
 }
 
 int main() {
-    CharMatrix mtx(1, 1);
-    mtx.setChar(0, 0, 'D');
+    srand(time(0));
+    CharMatrix mtx(3, 3);
+    for(int i = 0; i < 3; i++)
+        for(int j = 0; j < 3; j++)
+            mtx.setChar(i, j, char(98 + rand() % 20 ));
     CharMatrix test(mtx);
     cout << mtx;
-    test.setChar(0, 0, 'U');
+    test.setChar(0, 0, 'a');
     cout << test;
     bool flag = mtx > test;
-    cout << "False|True"<< endl << flag;
+    if(flag){
+        cout << "Right matrix bigger than left" << endl;
+    }else cout << "Left matrix bigger than right" << endl;
     flag = mtx < test;
-    cout << flag << endl;
     CharMatrix *arr = new CharMatrix [2];
     for(int i = 0; i < 2; i++){
         arr[i].setChar(0, 0, 'A');
