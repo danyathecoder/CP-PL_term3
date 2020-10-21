@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/Game.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+SFML/System.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/System.hpp
+SFML/Window.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Window.hpp
+SFML/Graphics.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Graphics.hpp
+SFML/Audio.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Audio.hpp
+SFML/Network.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Network.hpp
+
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/State.cpp
+State.h
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/State.h
+
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/State.h
+iostream
+-
+ctime
+-
+cstdlib
+-
+SFML/System.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/System.hpp
+SFML/Window.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Window.hpp
+SFML/Graphics.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Graphics.hpp
+SFML/Audio.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Audio.hpp
+SFML/Network.hpp
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/SFML/Network.hpp
+
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/main.cpp
+iostream
+-
+ctime
+-
+cstdlib
+-
+SFML/Graphics.hpp
+-
+Game.h
+/home/danilapoddubny/Programming/c&c++/CP-PL term3/Final project/game/Game.h
+
