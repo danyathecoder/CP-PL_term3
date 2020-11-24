@@ -1,5 +1,5 @@
 #include <iostream>
-#include <exception>      // set_terminate
+#include <exception>      
 
 using namespace std;
 
