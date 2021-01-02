@@ -1,4 +1,4 @@
-# CP-PL_term3
+# CP-PL_term3 (Сonstruction of programs and programming languages)
 ## 1 лабораторная 
 ### Тема: Операторы ввода/вывода
 ## 2 лабораторная
